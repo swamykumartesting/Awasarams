@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="100339" started-at="2019-08-08T11:56:50Z" finished-at="2019-08-08T11:58:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="100339" started-at="2019-08-08T11:56:50Z" finished-at="2019-08-08T11:58:30Z">
+      <class name="BestofBest2019.HMSData_Driven_Framework">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:BestofBest2019.HMSData_Driven_Framework@14acaea5]" name="beforeTest" is-config="true" duration-ms="5152" started-at="2019-08-08T11:56:50Z" finished-at="2019-08-08T11:56:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="functionality()[pri:0, instance:BestofBest2019.HMSData_Driven_Framework@14acaea5]" name="functionality" duration-ms="95177" started-at="2019-08-08T11:56:55Z" finished-at="2019-08-08T11:58:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- functionality -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:BestofBest2019.HMSData_Driven_Framework@14acaea5]" name="afterTest" is-config="true" duration-ms="0" started-at="2019-08-08T11:58:30Z" finished-at="2019-08-08T11:58:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- BestofBest2019.HMSData_Driven_Framework -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
